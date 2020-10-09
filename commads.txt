@@ -1,0 +1,5 @@
+#This is a text file for saving the useful commands 
+
+
+#project install
+mvn clean install
